@@ -216,7 +216,7 @@ A cost-benefit ratio of \*\*2.00\*\* indicates a positive investment because the
 
 
 
-!\[Project Cover](assets/project-cover.png)
+<img src="assets/project-cover.png" width="800">
 
 
 
@@ -224,7 +224,7 @@ A cost-benefit ratio of \*\*2.00\*\* indicates a positive investment because the
 
 
 
-!\[Stakeholder Analysis](assets/stakeholder-analysis.png)
+<img src="assets/stakeholder-analysis.png" width="800">
 
 
 
@@ -232,7 +232,7 @@ A cost-benefit ratio of \*\*2.00\*\* indicates a positive investment because the
 
 
 
-!\[RACI Matrix](assets/raci-matrix.png)
+<img src="assets/raci-matrix.png" width="800">
 
 
 
@@ -240,7 +240,7 @@ A cost-benefit ratio of \*\*2.00\*\* indicates a positive investment because the
 
 
 
-!\[Project Plan](assets/project-plan.png)
+<img src="assets/project-plan.png" width="800">
 
 
 
@@ -248,9 +248,7 @@ A cost-benefit ratio of \*\*2.00\*\* indicates a positive investment because the
 
 
 
-!\[Risk Management](assets/risk-management.png)
-
-
+<img src="assets/risk-management.png" width="800">
 
 \---
 
@@ -437,6 +435,4 @@ GitHub: https://github.com/hashimndl
 
 
 This repository is maintained for educational and portfolio purposes.
-
-
 
