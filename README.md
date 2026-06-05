@@ -2,19 +2,57 @@
 
 # 
 
+# !\[Methodology](https://img.shields.io/badge/Methodology-Waterfall-blue)
+
+# !\[Duration](https://img.shields.io/badge/Duration-12%20Weeks-green)
+
+# !\[Budget](https://img.shields.io/badge/Budget-$15K-orange)
+
+# !\[Status](https://img.shields.io/badge/Status-Completed-success)
+
+# 
+
+# \## Portfolio Summary
+
+# 
+
+# This repository showcases a complete digital transformation project completed as part of a Digital Project Management program.
+
+# 
+
+# As the Project Manager for Yosemite, an eCommerce platform that helps traditional retail businesses establish an online presence, I managed the onboarding and digital transformation of The Stefano Shop, a family-owned retail business. The project involved project planning, stakeholder analysis, cost-benefit analysis, risk management, team coordination, scheduling, and knowledge transfer documentation.
+
+# 
+
+# \---
+
+# 
+
+# \## Final Deliverables
+
+# 
+
+# \- 📄 \[Project Report (PDF)](docs/yosemite\_stefano\_project\_submission.pdf)
+
+# \- 📊 \[Gantt Chart (Excel)](docs/yosemite\_stefano\_gantt\_chart.xlsx)
+
+# \- 📽 \[Project Presentation (PowerPoint)](docs/yosemite\_stefano\_project\_submission.pptx)
+
+# 
+
+# \---
+
+# 
+
 # \## Project Overview
 
 # 
 
-# This project was completed as part of the Digital Project Management program.
+# The Stefano Shop was a successful local family business that needed to modernize its operations to remain competitive. Yosemite was engaged to migrate the business to an eCommerce platform and provide the tools, integrations, and training required for long-term success.
 
 # 
 
-# As the Project Manager for Yosemite, an eCommerce platform that helps brick-and-mortar businesses establish an online presence, I led the digital transformation initiative for The Stefano Shop, a family-owned retail business.
-
-# 
-
-# The primary objective was to digitize store operations and sales by developing an online storefront, integrating social media channels, implementing a recommendation engine, and training stakeholders to operate the platform successfully within a 12-week timeline.
+# The project objective was to digitize sales and operations while remaining within a strict budget and completing delivery within a maximum timeline of 12 weeks.
 
 # 
 
@@ -26,17 +64,17 @@
 
 # 
 
-# \- Digitize The Stefano Shop's operations and sales processes
-
 # \- Build an online storefront on the Yosemite platform
 
-# \- Integrate social media channels with the storefront
+# \- Integrate social media channels with the online store
 
-# \- Implement a recommendation engine to improve customer engagement
+# \- Implement a recommendation engine for customers
 
-# \- Train business stakeholders to independently manage the platform
+# \- Digitize inventory and reporting processes
 
-# \- Deliver the project within budget and schedule constraints
+# \- Train the Stefano family to independently manage the platform
+
+# \- Complete the project within the approved budget and schedule
 
 # 
 
@@ -48,19 +86,21 @@
 
 # 
 
-# | Item | Details |
+# | Category | Details |
 
-# |--------|---------|
+# |-----------|----------|
 
 # | Client | The Stefano Shop |
 
-# | Platform | Yosemite eCommerce |
+# | Organization | Yosemite eCommerce |
+
+# | Project Type | Digital Transformation |
 
 # | Methodology | Waterfall |
 
 # | Budget | $15,000 |
 
-# | Project Duration | 12 Weeks Maximum |
+# | Duration | Up to 12 Weeks |
 
 # | Project Manager | Hashim Naveed |
 
@@ -78,7 +118,27 @@
 
 # 
 
+# ```text
+
 # Cost-Benefit Ratio = Present Value of Benefits ÷ Present Value of Costs
+
+# ```
+
+# 
+
+# \### Inputs
+
+# 
+
+# | Item | Value |
+
+# |--------|--------|
+
+# | Revenue Increase | $36,000 |
+
+# | Discount Rate | 20% |
+
+# | Project Cost | $15,000 |
 
 # 
 
@@ -86,23 +146,17 @@
 
 # 
 
-# \- Expected Revenue Increase = $36,000
-
-# \- Discount Rate = 20%
-
-# \- Present Value of Benefits = $36,000 ÷ 1.20 = $30,000
-
-# \- Project Cost = $15,000
-
-# 
-
-# Cost-Benefit Ratio:
-
-# 
-
 # ```text
 
-# 30,000 ÷ 15,000 = 2.00
+# Present Value of Benefits = $36,000 ÷ 1.20
+
+# &#x20;                          = $30,000
+
+# 
+
+# Cost-Benefit Ratio = $30,000 ÷ $15,000
+
+# &#x20;                  = 2.00
 
 # ```
 
@@ -112,7 +166,7 @@
 
 # 
 
-# A Cost-Benefit Ratio of \*\*2.00\*\* indicates a positive investment because the expected benefits are twice the project cost.
+# A Cost-Benefit Ratio of \*\*2.00\*\* indicates a positive investment because the projected benefits are twice the total project cost.
 
 # 
 
@@ -136,7 +190,7 @@
 
 # \- Cost-benefit analysis
 
-# \- Schedule estimation
+# \- Schedule planning
 
 # \- Methodology selection
 
@@ -148,9 +202,9 @@
 
 # \- Power-Influence Grid
 
-# \- Stakeholder engagement planning
+# \- Stakeholder engagement strategy
 
-# \- Risk identification
+# \- Stakeholder risk assessment
 
 # 
 
@@ -162,7 +216,7 @@
 
 # \- Responsibility assignments
 
-# \- Communication structure
+# \- Communication planning
 
 # 
 
@@ -184,27 +238,27 @@
 
 # 
 
-# \- Risk assessment
+# \- Risk identification
+
+# \- Risk analysis
 
 # \- Risk response planning
 
-# \- Status reporting
-
-# \- Escalation procedures
+# \- Escalation planning
 
 # 
 
-# \### Knowledge Documentation
+# \### Knowledge Management
 
 # 
 
-# \- Storefront documentation
-
-# \- Recommendation engine documentation
+# \- Technical documentation
 
 # \- User manuals
 
-# \- Lessons learned
+# \- Lessons learned documentation
+
+# \- Knowledge transfer planning
 
 # 
 
@@ -216,11 +270,11 @@
 
 # 
 
-# \## Cover Page
+# \## Project Cover
 
 # 
 
-# !\[Cover Page](assets/screen\_1.png)
+# !\[Project Cover](assets/project-cover.png)
 
 # 
 
@@ -232,7 +286,7 @@
 
 # 
 
-# !\[Stakeholder Analysis](assets/screen\_8.png)
+# !\[Stakeholder Analysis](assets/stakeholder-analysis.png)
 
 # 
 
@@ -244,7 +298,7 @@
 
 # 
 
-# !\[RACI Matrix](assets/screen\_11.png)
+# !\[RACI Matrix](assets/raci-matrix.png)
 
 # 
 
@@ -252,11 +306,11 @@
 
 # 
 
-# \## Project Planning
+# \## Waterfall Project Plan
 
 # 
 
-# !\[Project Plan](assets/screen\_16.png)
+# !\[Project Plan](assets/project-plan.png)
 
 # 
 
@@ -268,7 +322,7 @@
 
 # 
 
-# !\[Risk Management](assets/screen\_19.png)
+# !\[Risk Management](assets/risk-management.png)
 
 # 
 
@@ -288,13 +342,27 @@
 
 # \- Project Planning
 
-# \- Stakeholder Management
-
-# \- Resource Planning
-
 # \- Scope Management
 
 # \- Schedule Management
+
+# \- Resource Planning
+
+# \- Project Closure
+
+# 
+
+# \### Stakeholder Management
+
+# 
+
+# \- Stakeholder Analysis
+
+# \- Power-Influence Assessment
+
+# \- Stakeholder Engagement Planning
+
+# \- Executive Communication
 
 # 
 
@@ -302,13 +370,13 @@
 
 # 
 
-# \- Requirements Gathering
-
 # \- Cost-Benefit Analysis
 
-# \- Stakeholder Analysis
+# \- Requirements Gathering
 
-# \- Process Improvement
+# \- Business Process Improvement
+
+# \- Value Assessment
 
 # 
 
@@ -320,23 +388,23 @@
 
 # \- Risk Assessment
 
-# \- Risk Mitigation
+# \- Risk Mitigation Planning
 
-# \- Escalation Planning
-
-# 
-
-# \### Team Management
+# \- Escalation Management
 
 # 
 
-# \- RACI Development
+# \### Team Leadership
 
-# \- Cross-functional Coordination
+# 
 
-# \- Communication Planning
+# \- RACI Matrix Development
+
+# \- Cross-Functional Coordination
 
 # \- Status Reporting
+
+# \- Communication Management
 
 # 
 
@@ -350,7 +418,7 @@
 
 # \- Documentation Management
 
-# \- Project Closure Activities
+# \- Knowledge Transfer
 
 # 
 
@@ -370,6 +438,8 @@
 
 # ├── README.md
 
+# ├── .gitignore
+
 # │
 
 # ├── docs/
@@ -384,53 +454,17 @@
 
 # └── assets/
 
-# &#x20;   ├── screen\_1.png
+# &#x20;   ├── project-cover.png
 
-# &#x20;   ├── screen\_8.png
+# &#x20;   ├── stakeholder-analysis.png
 
-# &#x20;   ├── screen\_11.png
+# &#x20;   ├── raci-matrix.png
 
-# &#x20;   ├── screen\_16.png
+# &#x20;   ├── project-plan.png
 
-# &#x20;   └── screen\_19.png
+# &#x20;   └── risk-management.png
 
 # ```
-
-# 
-
-# \---
-
-# 
-
-# \## Files Included
-
-# 
-
-# \### Documentation
-
-# 
-
-# \- Final Project Presentation (PDF)
-
-# \- Final Project Presentation (PowerPoint)
-
-# \- Waterfall Gantt Chart (Excel)
-
-# 
-
-# \### Visual Assets
-
-# 
-
-# \- Project Overview
-
-# \- Stakeholder Analysis
-
-# \- RACI Matrix
-
-# \- Project Plan
-
-# \- Risk Management
 
 # 
 
@@ -446,13 +480,15 @@
 
 # \- Delivered a structured Waterfall project plan
 
-# \- Performed stakeholder and risk analysis
+# \- Conducted stakeholder analysis and engagement planning
 
-# \- Created project governance documentation
+# \- Developed a RACI matrix for role clarification
 
-# \- Developed a realistic schedule and resource allocation strategy
+# \- Performed cost-benefit analysis and investment assessment
 
-# \- Produced project closure and knowledge transfer documentation
+# \- Created a risk management and response framework
+
+# \- Produced project documentation and knowledge transfer materials
 
 # 
 
@@ -460,7 +496,7 @@
 
 # 
 
-# \## Technologies \& Tools
+# \## Tools \& Techniques
 
 # 
 
@@ -472,13 +508,17 @@
 
 # \- GitHub
 
-# \- Project Management Methodologies
+# \- Waterfall Methodology
+
+# \- Gantt Chart Planning
+
+# \- Stakeholder Analysis
 
 # \- Cost-Benefit Analysis
 
-# \- Risk Management Frameworks
+# \- Risk Management
 
-# \- Stakeholder Analysis Techniques
+# \- RACI Matrix
 
 # 
 
@@ -506,5 +546,5 @@
 
 # 
 
-# This repository is intended for educational and portfolio purposes.
+# This repository is maintained for educational, portfolio, and professional development purposes.
 
