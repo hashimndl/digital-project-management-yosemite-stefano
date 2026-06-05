@@ -2,16 +2,6 @@
 
 
 
-!\[Methodology](https://img.shields.io/badge/Methodology-Waterfall-blue)
-
-!\[Duration](https://img.shields.io/badge/Duration-12\_Weeks-green)
-
-!\[Budget](https://img.shields.io/badge/Budget-15K-orange)
-
-!\[Status](https://img.shields.io/badge/Status-Completed-success)
-
-
-
 \## Overview
 
 
@@ -20,45 +10,11 @@ This project was completed as part of a Digital Project Management program.
 
 
 
-As the Project Manager for Yosemite, an eCommerce platform that helps traditional retail businesses establish an online presence, I managed the digital transformation initiative for The Stefano Shop, a family-owned retail business.
+As the Project Manager for Yosemite, I managed the digital transformation of The Stefano Shop, a family-owned retail business transitioning from traditional operations to an eCommerce platform.
 
 
 
-The project involved:
-
-
-
-\* Building an online storefront
-
-\* Integrating social media channels
-
-\* Implementing a recommendation engine
-
-\* Digitizing inventory processes
-
-\* Training business stakeholders
-
-\* Delivering the project within budget and schedule constraints
-
-
-
-\---
-
-
-
-\## Final Deliverables
-
-
-
-\### Documentation
-
-
-
-\* \[Project Report (PDF)](docs/yosemite\_stefano\_project\_submission.pdf)
-
-\* \[Project Presentation (PowerPoint)](docs/yosemite\_stefano\_project\_submission.pptx)
-
-\* \[Gantt Chart (Excel)](docs/yosemite\_stefano\_gantt\_chart.xlsx)
+The project focused on delivering an online storefront, social media integration, a recommendation engine, stakeholder training, and supporting documentation within a fixed budget and timeline.
 
 
 
@@ -70,7 +26,7 @@ The project involved:
 
 
 
-| Category        | Details                |
+| Item            | Details                |
 
 | --------------- | ---------------------- |
 
@@ -106,9 +62,9 @@ The project involved:
 
 \* Digitize inventory and reporting processes
 
-\* Train stakeholders to independently manage the platform
+\* Train stakeholders to manage the platform independently
 
-\* Complete the project within budget and schedule
+\* Complete the project within budget and schedule constraints
 
 
 
@@ -120,23 +76,19 @@ The project involved:
 
 
 
-\### Inputs
+| Item                      | Value   |
+
+| ------------------------- | ------- |
+
+| Expected Revenue Increase | $36,000 |
+
+| Discount Rate             | 20%     |
+
+| Project Cost              | $15,000 |
 
 
 
-| Item             | Value   |
-
-| ---------------- | ------- |
-
-| Revenue Increase | $36,000 |
-
-| Discount Rate    | 20%     |
-
-| Project Cost     | $15,000 |
-
-
-
-\### Result
+\### Calculation
 
 
 
@@ -144,7 +96,7 @@ Present Value of Benefits:
 
 
 
-$36,000 ÷ 1.20 = $30,000
+36,000 ÷ 1.20 = 30,000
 
 
 
@@ -152,11 +104,15 @@ Cost-Benefit Ratio:
 
 
 
-$30,000 ÷ $15,000 = 2.00
+30,000 ÷ 15,000 = 2.00
 
 
 
-A ratio of \*\*2.00\*\* indicates a positive investment because the projected benefits are twice the total project cost.
+\### Result
+
+
+
+A cost-benefit ratio of \*\*2.00\*\* indicates a positive investment because the projected benefits are twice the project cost.
 
 
 
@@ -164,7 +120,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\## Project Deliverables
+\## Deliverables
 
 
 
@@ -196,7 +152,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\### Team Management
+\### Team Planning
 
 
 
@@ -228,11 +184,9 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 \* Risk identification
 
-\* Risk assessment
+\* Risk analysis
 
-\* Response planning
-
-\* Escalation planning
+\* Risk response planning
 
 
 
@@ -254,11 +208,11 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\# Project Screenshots
+\## Project Screenshots
 
 
 
-\## Project Cover
+\### Project Cover
 
 
 
@@ -266,7 +220,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\## Stakeholder Analysis
+\### Stakeholder Analysis
 
 
 
@@ -274,7 +228,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\## RACI Matrix
+\### RACI Matrix
 
 
 
@@ -282,7 +236,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\## Waterfall Project Plan
+\### Project Plan
 
 
 
@@ -290,11 +244,31 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\## Risk Management
+\### Risk Management
 
 
 
 !\[Risk Management](assets/risk-management.png)
+
+
+
+\---
+
+
+
+\## Files Included
+
+
+
+\### Documentation
+
+
+
+\* \[Project Report (PDF)](docs/yosemite\_stefano\_project\_submission.pdf)
+
+\* \[Project Presentation (PowerPoint)](docs/yosemite\_stefano\_project\_submission.pptx)
+
+\* \[Gantt Chart (Excel)](docs/yosemite\_stefano\_gantt\_chart.xlsx)
 
 
 
@@ -330,7 +304,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 \* Power-Influence Assessment
 
-\* Stakeholder Engagement
+\* Stakeholder Engagement Planning
 
 
 
@@ -342,7 +316,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 \* Requirements Gathering
 
-\* Process Improvement
+\* Business Process Improvement
 
 
 
@@ -388,55 +362,19 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\## Repository Structure
-
-
-
-\* README.md
-
-\* docs/
-
-
-
-&#x20; \* yosemite\_stefano\_project\_submission.pdf
-
-&#x20; \* yosemite\_stefano\_project\_submission.pptx
-
-&#x20; \* yosemite\_stefano\_gantt\_chart.xlsx
-
-\* assets/
-
-
-
-&#x20; \* project-cover.png
-
-&#x20; \* stakeholder-analysis.png
-
-&#x20; \* raci-matrix.png
-
-&#x20; \* project-plan.png
-
-&#x20; \* risk-management.png
-
-
-
-\---
-
-
-
 \## Key Outcomes
 
 
 
-\* Successfully planned a digital transformation initiative
+\* Successfully planned a complete digital transformation initiative
 
-\* Delivered a complete Waterfall project plan
+\* Delivered a structured Waterfall project plan
 
 \* Conducted stakeholder analysis and engagement planning
 
 \* Developed a RACI matrix for team coordination
 
-\* Performed cost-benefit analysis
+\* Performed cost-benefit analysis and investment assessment
 
 \* Created a risk management framework
 
@@ -448,7 +386,7 @@ A ratio of \*\*2.00\*\* indicates a positive investment because the projected be
 
 
 
-\## Tools \& Techniques
+\## Tools Used
 
 
 
