@@ -1,550 +1,504 @@
-# \# Yosemite – The Stefano Shop Digital Transformation
+\# Yosemite – The Stefano Shop Digital Transformation
 
-# 
 
-# !\[Methodology](https://img.shields.io/badge/Methodology-Waterfall-blue)
 
-# !\[Duration](https://img.shields.io/badge/Duration-12%20Weeks-green)
+!\[Methodology](https://img.shields.io/badge/Methodology-Waterfall-blue)
 
-# !\[Budget](https://img.shields.io/badge/Budget-$15K-orange)
+!\[Duration](https://img.shields.io/badge/Duration-12\_Weeks-green)
 
-# !\[Status](https://img.shields.io/badge/Status-Completed-success)
+!\[Budget](https://img.shields.io/badge/Budget-15K-orange)
 
-# 
+!\[Status](https://img.shields.io/badge/Status-Completed-success)
 
-# \## Portfolio Summary
 
-# 
 
-# This repository showcases a complete digital transformation project completed as part of a Digital Project Management program.
+\## Overview
 
-# 
 
-# As the Project Manager for Yosemite, an eCommerce platform that helps traditional retail businesses establish an online presence, I managed the onboarding and digital transformation of The Stefano Shop, a family-owned retail business. The project involved project planning, stakeholder analysis, cost-benefit analysis, risk management, team coordination, scheduling, and knowledge transfer documentation.
 
-# 
+This project was completed as part of a Digital Project Management program.
 
-# \---
 
-# 
 
-# \## Final Deliverables
+As the Project Manager for Yosemite, an eCommerce platform that helps traditional retail businesses establish an online presence, I managed the digital transformation initiative for The Stefano Shop, a family-owned retail business.
 
-# 
 
-# \- 📄 \[Project Report (PDF)](docs/yosemite\_stefano\_project\_submission.pdf)
 
-# \- 📊 \[Gantt Chart (Excel)](docs/yosemite\_stefano\_gantt\_chart.xlsx)
+The project involved:
 
-# \- 📽 \[Project Presentation (PowerPoint)](docs/yosemite\_stefano\_project\_submission.pptx)
 
-# 
 
-# \---
+\* Building an online storefront
 
-# 
+\* Integrating social media channels
 
-# \## Project Overview
+\* Implementing a recommendation engine
 
-# 
+\* Digitizing inventory processes
 
-# The Stefano Shop was a successful local family business that needed to modernize its operations to remain competitive. Yosemite was engaged to migrate the business to an eCommerce platform and provide the tools, integrations, and training required for long-term success.
+\* Training business stakeholders
 
-# 
+\* Delivering the project within budget and schedule constraints
 
-# The project objective was to digitize sales and operations while remaining within a strict budget and completing delivery within a maximum timeline of 12 weeks.
 
-# 
 
-# \---
+\---
 
-# 
 
-# \## Business Objectives
 
-# 
+\## Final Deliverables
 
-# \- Build an online storefront on the Yosemite platform
 
-# \- Integrate social media channels with the online store
 
-# \- Implement a recommendation engine for customers
+\### Documentation
 
-# \- Digitize inventory and reporting processes
 
-# \- Train the Stefano family to independently manage the platform
 
-# \- Complete the project within the approved budget and schedule
+\* \[Project Report (PDF)](docs/yosemite\_stefano\_project\_submission.pdf)
 
-# 
+\* \[Project Presentation (PowerPoint)](docs/yosemite\_stefano\_project\_submission.pptx)
 
-# \---
+\* \[Gantt Chart (Excel)](docs/yosemite\_stefano\_gantt\_chart.xlsx)
 
-# 
 
-# \## Project Information
 
-# 
+\---
 
-# | Category | Details |
 
-# |-----------|----------|
 
-# | Client | The Stefano Shop |
+\## Project Information
 
-# | Organization | Yosemite eCommerce |
 
-# | Project Type | Digital Transformation |
 
-# | Methodology | Waterfall |
+| Category        | Details                |
 
-# | Budget | $15,000 |
+| --------------- | ---------------------- |
 
-# | Duration | Up to 12 Weeks |
+| Client          | The Stefano Shop       |
 
-# | Project Manager | Hashim Naveed |
+| Organization    | Yosemite eCommerce     |
 
-# 
+| Project Type    | Digital Transformation |
 
-# \---
+| Methodology     | Waterfall              |
 
-# 
+| Budget          | $15,000                |
 
-# \## Cost-Benefit Analysis
+| Duration        | 12 Weeks               |
 
-# 
+| Project Manager | Hashim Naveed          |
 
-# \### Formula
 
-# 
 
-# ```text
+\---
 
-# Cost-Benefit Ratio = Present Value of Benefits ÷ Present Value of Costs
 
-# ```
 
-# 
+\## Business Objectives
 
-# \### Inputs
 
-# 
 
-# | Item | Value |
+\* Build an online storefront on the Yosemite platform
 
-# |--------|--------|
+\* Integrate social media channels with the storefront
 
-# | Revenue Increase | $36,000 |
+\* Implement a recommendation engine
 
-# | Discount Rate | 20% |
+\* Digitize inventory and reporting processes
 
-# | Project Cost | $15,000 |
+\* Train stakeholders to independently manage the platform
 
-# 
+\* Complete the project within budget and schedule
 
-# \### Calculation
 
-# 
 
-# ```text
+\---
 
-# Present Value of Benefits = $36,000 ÷ 1.20
 
-# &#x20;                          = $30,000
 
-# 
+\## Cost-Benefit Analysis
 
-# Cost-Benefit Ratio = $30,000 ÷ $15,000
 
-# &#x20;                  = 2.00
 
-# ```
+\### Inputs
 
-# 
 
-# \### Result
 
-# 
+| Item             | Value   |
 
-# A Cost-Benefit Ratio of \*\*2.00\*\* indicates a positive investment because the projected benefits are twice the total project cost.
+| ---------------- | ------- |
 
-# 
+| Revenue Increase | $36,000 |
 
-# \---
+| Discount Rate    | 20%     |
 
-# 
+| Project Cost     | $15,000 |
 
-# \## Deliverables
 
-# 
 
-# \### Project Scope
+\### Result
 
-# 
 
-# \- Business objectives
 
-# \- Project milestones
+Present Value of Benefits:
 
-# \- Resource planning
 
-# \- Cost-benefit analysis
 
-# \- Schedule planning
+$36,000 ÷ 1.20 = $30,000
 
-# \- Methodology selection
 
-# 
 
-# \### Stakeholder Analysis
+Cost-Benefit Ratio:
 
-# 
 
-# \- Power-Influence Grid
 
-# \- Stakeholder engagement strategy
+$30,000 ÷ $15,000 = 2.00
 
-# \- Stakeholder risk assessment
 
-# 
 
-# \### Team Planning
+A ratio of \*\*2.00\*\* indicates a positive investment because the projected benefits are twice the total project cost.
 
-# 
 
-# \- RACI Matrix
 
-# \- Responsibility assignments
+\---
 
-# \- Communication planning
 
-# 
 
-# \### Project Planning
+\## Project Deliverables
 
-# 
 
-# \- Waterfall Gantt Chart
 
-# \- Task sequencing
+\### Project Scope
 
-# \- Resource allocation
 
-# \- Status reporting schedule
 
-# 
+\* Business objectives
 
-# \### Risk Management
+\* Milestones
 
-# 
+\* Resource planning
 
-# \- Risk identification
+\* Cost-benefit analysis
 
-# \- Risk analysis
+\* Schedule planning
 
-# \- Risk response planning
 
-# \- Escalation planning
 
-# 
+\### Stakeholder Analysis
 
-# \### Knowledge Management
 
-# 
 
-# \- Technical documentation
+\* Power-Influence Grid
 
-# \- User manuals
+\* Stakeholder assessment
 
-# \- Lessons learned documentation
+\* Engagement planning
 
-# \- Knowledge transfer planning
 
-# 
 
-# \---
+\### Team Management
 
-# 
 
-# \# Project Screenshots
 
-# 
+\* RACI Matrix
 
-# \## Project Cover
+\* Responsibility assignments
 
-# 
+\* Communication planning
 
-# !\[Project Cover](assets/project-cover.png)
 
-# 
 
-# \---
+\### Project Planning
 
-# 
 
-# \## Stakeholder Analysis
 
-# 
+\* Waterfall Gantt Chart
 
-# !\[Stakeholder Analysis](assets/stakeholder-analysis.png)
+\* Task sequencing
 
-# 
+\* Resource allocation
 
-# \---
+\* Status reporting
 
-# 
 
-# \## RACI Matrix
 
-# 
+\### Risk Management
 
-# !\[RACI Matrix](assets/raci-matrix.png)
 
-# 
 
-# \---
+\* Risk identification
 
-# 
+\* Risk assessment
 
-# \## Waterfall Project Plan
+\* Response planning
 
-# 
+\* Escalation planning
 
-# !\[Project Plan](assets/project-plan.png)
 
-# 
 
-# \---
+\### Knowledge Documentation
 
-# 
 
-# \## Risk Management
 
-# 
+\* Technical documentation
 
-# !\[Risk Management](assets/risk-management.png)
+\* User manuals
 
-# 
+\* Lessons learned
 
-# \---
+\* Knowledge transfer documentation
 
-# 
 
-# \## Skills Demonstrated
 
-# 
+\---
 
-# \### Project Management
 
-# 
 
-# \- Project Initiation
+\# Project Screenshots
 
-# \- Project Planning
 
-# \- Scope Management
 
-# \- Schedule Management
+\## Project Cover
 
-# \- Resource Planning
 
-# \- Project Closure
 
-# 
+!\[Project Cover](assets/project-cover.png)
 
-# \### Stakeholder Management
 
-# 
 
-# \- Stakeholder Analysis
+\## Stakeholder Analysis
 
-# \- Power-Influence Assessment
 
-# \- Stakeholder Engagement Planning
 
-# \- Executive Communication
+!\[Stakeholder Analysis](assets/stakeholder-analysis.png)
 
-# 
 
-# \### Business Analysis
 
-# 
+\## RACI Matrix
 
-# \- Cost-Benefit Analysis
 
-# \- Requirements Gathering
 
-# \- Business Process Improvement
+!\[RACI Matrix](assets/raci-matrix.png)
 
-# \- Value Assessment
 
-# 
 
-# \### Risk Management
+\## Waterfall Project Plan
 
-# 
 
-# \- Risk Identification
 
-# \- Risk Assessment
+!\[Project Plan](assets/project-plan.png)
 
-# \- Risk Mitigation Planning
 
-# \- Escalation Management
 
-# 
+\## Risk Management
 
-# \### Team Leadership
 
-# 
 
-# \- RACI Matrix Development
+!\[Risk Management](assets/risk-management.png)
 
-# \- Cross-Functional Coordination
 
-# \- Status Reporting
 
-# \- Communication Management
+\---
 
-# 
 
-# \### Delivery Management
 
-# 
+\## Skills Demonstrated
 
-# \- Waterfall Methodology
 
-# \- Gantt Chart Planning
 
-# \- Documentation Management
+\### Project Management
 
-# \- Knowledge Transfer
 
-# 
 
-# \---
+\* Project Planning
 
-# 
+\* Scope Management
 
-# \## Repository Structure
+\* Schedule Management
 
-# 
+\* Resource Planning
 
-# ```text
+\* Project Closure
 
-# digital-project-management-yosemite-stefano/
 
-# │
 
-# ├── README.md
+\### Stakeholder Management
 
-# ├── .gitignore
 
-# │
 
-# ├── docs/
+\* Stakeholder Analysis
 
-# │   ├── yosemite\_stefano\_project\_submission.pdf
+\* Power-Influence Assessment
 
-# │   ├── yosemite\_stefano\_project\_submission.pptx
+\* Stakeholder Engagement
 
-# │   └── yosemite\_stefano\_gantt\_chart.xlsx
 
-# │
 
-# └── assets/
+\### Business Analysis
 
-# &#x20;   ├── project-cover.png
 
-# &#x20;   ├── stakeholder-analysis.png
 
-# &#x20;   ├── raci-matrix.png
+\* Cost-Benefit Analysis
 
-# &#x20;   ├── project-plan.png
+\* Requirements Gathering
 
-# &#x20;   └── risk-management.png
+\* Process Improvement
 
-# ```
 
-# 
 
-# \---
+\### Risk Management
 
-# 
 
-# \## Key Outcomes
 
-# 
+\* Risk Identification
 
-# \- Successfully planned a complete digital transformation initiative
+\* Risk Assessment
 
-# \- Delivered a structured Waterfall project plan
+\* Risk Mitigation Planning
 
-# \- Conducted stakeholder analysis and engagement planning
 
-# \- Developed a RACI matrix for role clarification
 
-# \- Performed cost-benefit analysis and investment assessment
+\### Team Coordination
 
-# \- Created a risk management and response framework
 
-# \- Produced project documentation and knowledge transfer materials
 
-# 
+\* RACI Matrix Development
 
-# \---
+\* Communication Planning
 
-# 
+\* Cross-Functional Collaboration
 
-# \## Tools \& Techniques
 
-# 
 
-# \- Microsoft PowerPoint
+\### Delivery Management
 
-# \- Microsoft Excel
 
-# \- Git
 
-# \- GitHub
+\* Waterfall Methodology
 
-# \- Waterfall Methodology
+\* Gantt Chart Planning
 
-# \- Gantt Chart Planning
+\* Documentation Management
 
-# \- Stakeholder Analysis
+\* Knowledge Transfer
 
-# \- Cost-Benefit Analysis
 
-# \- Risk Management
 
-# \- RACI Matrix
+\---
 
-# 
 
-# \---
 
-# 
+\## Repository Structure
 
-# \## Author
 
-# 
 
-# \*\*Hashim Naveed\*\*
+\* README.md
 
-# 
+\* docs/
 
-# GitHub: https://github.com/hashimndl
 
-# 
 
-# \---
+&#x20; \* yosemite\_stefano\_project\_submission.pdf
 
-# 
+&#x20; \* yosemite\_stefano\_project\_submission.pptx
 
-# \## License
+&#x20; \* yosemite\_stefano\_gantt\_chart.xlsx
 
-# 
+\* assets/
 
-# This repository is maintained for educational, portfolio, and professional development purposes.
+
+
+&#x20; \* project-cover.png
+
+&#x20; \* stakeholder-analysis.png
+
+&#x20; \* raci-matrix.png
+
+&#x20; \* project-plan.png
+
+&#x20; \* risk-management.png
+
+
+
+\---
+
+
+
+\## Key Outcomes
+
+
+
+\* Successfully planned a digital transformation initiative
+
+\* Delivered a complete Waterfall project plan
+
+\* Conducted stakeholder analysis and engagement planning
+
+\* Developed a RACI matrix for team coordination
+
+\* Performed cost-benefit analysis
+
+\* Created a risk management framework
+
+\* Produced project documentation and knowledge transfer materials
+
+
+
+\---
+
+
+
+\## Tools \& Techniques
+
+
+
+\* Microsoft PowerPoint
+
+\* Microsoft Excel
+
+\* Git
+
+\* GitHub
+
+\* Waterfall Methodology
+
+\* Gantt Charts
+
+\* Stakeholder Analysis
+
+\* Cost-Benefit Analysis
+
+\* Risk Management
+
+\* RACI Matrix
+
+
+
+\---
+
+
+
+\## Author
+
+
+
+\*\*Hashim Naveed\*\*
+
+
+
+GitHub: https://github.com/hashimndl
+
+
+
+\---
+
+
+
+\## License
+
+
+
+This repository is maintained for educational and portfolio purposes.
+
+
 
